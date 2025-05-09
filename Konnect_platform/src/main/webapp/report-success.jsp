@@ -16,7 +16,7 @@
         <div class="container">
             <div class="card">
                 <div class="card-header">
-                    <h2><i class="fas fa-check-circle"></i> Report Submitted</h2>
+                    <h2><i class="fas fa-check-circle"></i> Report ubmitted</h2>
                 </div>
                 
                 <div class="card-body">
